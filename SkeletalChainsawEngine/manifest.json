@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "SkeletalChainsawEngine",
+  "author": "You",
+  "version": "1.1.3",
+  "description": "A mod that does something.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
