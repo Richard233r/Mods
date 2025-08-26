@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
-  "id": "TrapReset",
-  "author": "Franky",
+  "id": "TrapResetChineseAddon",
+   "author": "Translate by Richard",
   "version": "1.0.1",
   "description": "Automatically reset (selectable)traps after a configurable amount of time",
   "gameVersion": "1.0.0",

@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
   "id": "瀑布声音控制",
-  "author": "Toni Macaroni",
+  "author": "Translate by Richard",
   "version": "1.0.0",
   "description": "Control the sound volume of waterfalls.",
   "gameVersion": "1.0.0",
