@@ -1,0 +1,27 @@
+{
+  "savegame": 0,
+  "activeStates": {},
+  "floatValues": {},
+  "toggleStates": {
+    "ToggleZooming": false,
+    "ToggleHeadView": true,
+    "NeverDirtyToggle": false,
+    "CannotBleedToggle": false,
+    "IncludeTeleportToggle": true,
+    "MatchSameSentimentToggle": true,
+    "ToggleViewportLightBH": true,
+    "KeepEnabledToggle": false,
+    "OverrideLipsToggle": true
+  },
+  "interactableStates": {},
+  "boolstates": null,
+  "colorValues": {},
+  "stringValues": {},
+  "currentPresetToggles": false,
+  "dropdownValues": {},
+  "blendShapeWeights": {},
+  "texturePaths": {},
+  "currentHairInt": 0,
+  "currentOutfitInt": 0,
+  "currentBodyInt": 0
+}

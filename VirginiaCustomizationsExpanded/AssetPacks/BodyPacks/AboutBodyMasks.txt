@@ -1,0 +1,3 @@
+Bodypackb and bodybackahippiemasks can be removed if you are using outfits which work good with 
+the default nude model or just not using clothing at all. Otherwise I recommend keeping them enabled. 
+Many outfits are built around these and they are there to reduce clipping.

@@ -1,0 +1,48 @@
+{
+  "savegame": 1,
+  "activeStates": {
+    "allowhairbool": false,
+    "dryaddontswitch": false,
+    "usedryadcolor": false,
+    "mummysolafite": false
+  },
+  "floatValues": {},
+  "toggleStates": {},
+  "interactableStates": {},
+  "boolstates": null,
+  "colorValues": {},
+  "stringValues": {
+    "Preset0Text": "Empty",
+    "Preset1Text": "Empty",
+    "Preset2Text": "Empty",
+    "Preset3Text": "Empty",
+    "Preset4Text": "Empty",
+    "Preset5Text": "Empty",
+    "Preset6Text": "Empty",
+    "Preset7Text": "Empty",
+    "Preset8Text": "Empty",
+    "Preset9Text": "Empty",
+    "Preset10Text": "Empty",
+    "Preset11Text": "Empty",
+    "Preset12Text": "Empty",
+    "Preset13Text": "Empty",
+    "Preset14Text": "Empty",
+    "AllowHairGeneralText": "Allow Hair with \nHead Covering",
+    "dryadtext": "Disable Dryad Automatic Color Switching",
+    "dryadrectext": "Keep Dryad Color",
+    "SetSolafiteMummyText": "Use Solafite Bandages"
+  },
+  "currentPresetToggles": false,
+  "dropdownValues": {
+    "AM_IncombatDD": 0,
+    "AM_SleepingDD": 0,
+    "AM_SwimmingDD": 0,
+    "AM_WashingDD": 0,
+    "AM_IsDancingDD": 0
+  },
+  "blendShapeWeights": {},
+  "texturePaths": {},
+  "currentHairInt": 2,
+  "currentOutfitInt": 0,
+  "currentBodyInt": 0
+}

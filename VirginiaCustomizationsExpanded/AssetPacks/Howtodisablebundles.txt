@@ -1,0 +1,17 @@
+If you want to reduce load times and know there are certain assets you’ll never use in this mod,
+you can disable them without deleting them. In the “Asset Packs” folder, add “null” to the name of any file you wish to disable.
+You can also do this with entire folders to disable all bundles inside them.
+
+If a file name includes “DONTREMOVE”, do not remove or rename it. These files are required for the mod to function properly.
+It’s also recommended to always keep BodyPack A and BodyPack B in the folder.
+
+If you have presets saved and later remove asset bundles associated with them,
+be sure to delete those presets as well; otherwise, the risk of unstable mod behavior increases.
+I’ve done my best to make sure the mod remains stable if this happens,
+but it can still cause unexpected issues.
+
+If you do disable assets, you can check the Errorlogs folder to see which ones are missing.
+The log reports any missing assets it detects. The Errorlogs file automatically caps its size
+and will overwrite older logs when that limit is reached.
+
+ALSO: Don't remove vcehierarchy. Its a critical file, but I cannot add DONTREMOVE to the name.

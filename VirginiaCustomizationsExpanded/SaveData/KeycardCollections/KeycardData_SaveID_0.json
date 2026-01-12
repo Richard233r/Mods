@@ -1,0 +1,8 @@
+{
+  "boolstates": {
+    "Keycard_Nurse": true,
+    "Keycard_Hippie": true,
+    "Keycard_Pajamas": true,
+    "Keycard_Barbarian": true
+  }
+}
