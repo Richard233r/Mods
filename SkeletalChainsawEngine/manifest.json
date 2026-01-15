@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "SkeletalChainsawEngine",
+  "author": "RegiRockn'Roll",
+  "version": "1.1.5",
+  "description": "Model Swaps the chainsaw with a skeletal chainsaw with a light.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
