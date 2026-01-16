@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
   "id": "KelvinCanAttack",
   "author": "RegiRockn'Roll",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Allows you to adds dual mounted spearlaunchers and dual spotlights to Kelvin. Kelvin also has a kick move he can attack with.",
   "gameVersion": "1.0.0",
   "type": "Mod",
