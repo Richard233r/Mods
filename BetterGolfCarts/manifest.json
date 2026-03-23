@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "BetterGolfCarts",
+  "author": "JoJoJesper",
+  "version": "1.0.0",
+  "description": "A utility mod to add small features to golf carts and also allow for some tuning.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
