@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
   "id": "AutoPickup",
   "author": "tempbito",
-  "version": "1.7.0",
+  "version": "1.7.4",
   "description": "Auto Pickup Items around you",
   "gameVersion": "1.0.0",
   "type": "Mod",
