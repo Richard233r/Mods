@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "SmartLights",
+  "author": "tempbito",
+  "version": "1.1.2",
+  "description": "Turn On/Off Lights automatically at your desired time.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
