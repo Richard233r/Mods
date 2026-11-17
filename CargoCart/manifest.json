@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "CargoCart",
+  "name": "Cargo Cart",
+  "author": "Ibrahim / OpenAI",
+  "version": "0.1.16",
+  "description": "A book-built upgraded log sled variant with general cargo storage, twice the player maximum per item, and progression-document exclusions. Single player.",
+  "loaderVersion": "0.8.6",
+  "type": "Mod",
+  "platform": "Client"
+}

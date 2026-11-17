@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "Gyrocopter",
+  "author": "Redisimiliture",
+  "version": "0.9.4",
+  "description": "A mod that adds a gyrocopter into the game",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://codeberg.org/Redisimiliture/SOTF_Gyrocopter"
+}

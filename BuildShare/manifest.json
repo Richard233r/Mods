@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
   "id": "BuildShare",
-  "name": "Build Share (ALPHA)",
+  "name": "Build Share (测试版)",
   "author": "Toni Macaroni",
   "version": "1.0.10",
   "description": "Share your buildings with the world.",
