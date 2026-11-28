@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "BatchPillarRemoverPlus",
+  "name": "Batch Building Remover Plus（家具可选拆除）",
+  "author": "Long Yu（Codex）/ 二次改造",
+  "version": "1.1.33",
+  "description": "范围拆除（F11）基础上新增“是否拆除家具”开关，默认不勾选。判定改为排除法：只要不是建筑骨架（墙/地板/梁/柱/楼梯/屋顶/门窗/栏杆/篱笆/塔布/木筏/树），建筑上所有可建造物件（桌椅、盔甲架、晾晒架、武器架、储物架、装饰摆件等）都算家具。勾选后先清数据库并恢复圈外，再对拆除半径内的全部结构与残留摆放物做兜底清扫；所有销毁动作都做半径复核，只删圈内、不碰圈外。不勾选时家具原样保留。F4/F5 支柱与横梁删除逻辑保持不变。",
+  "gameVersion": "1.0.0",
+  "loaderVersion": "0.8.6",
+  "type": "Mod",
+  "platform": "Client"
+}
